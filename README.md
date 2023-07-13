@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAVersteeg
 - 👀 I’m interested in data science and its application in businesses.
-- 🌱 I’m currently studying for a master's degree in data science and entrepreneurship.
+- 🌱 I’m received a master's degree in Data Science and Entrepreneurship.
 - 📫 You can reach me via e-mail on jochem@jversteeg.com
 
 <!---
