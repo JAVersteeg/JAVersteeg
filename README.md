@@ -13,7 +13,6 @@ Data Engineer / BI Developer at NOC*NSF (Netherlands Olympic Committee), buildin
 | Repo | Description | Tech |
 |------|-------------|------|
 | [under-a-rock](https://github.com/JAVersteeg/under-a-rock) | Personal news app — curated RSS feeds with keyword-based topic classification | TypeScript, React Native, Expo, Supabase |
-| [Deep-SVDD-PyTorch](https://github.com/JAVersteeg/Deep-SVDD-PyTorch) | PyTorch implementation of the Deep SVDD anomaly detection method | Python, PyTorch |
 | [Deep-SAD-PyTorch](https://github.com/JAVersteeg/Deep-SAD-PyTorch) | PyTorch implementation of Deep SAD (semi-supervised anomaly detection) | Python, PyTorch |
 | [bTCP_project](https://github.com/JAVersteeg/bTCP_project) | Custom transport protocol implementation | Python |
 | [slots](https://github.com/JAVersteeg/slots) | Multi-armed bandit library | Python |
