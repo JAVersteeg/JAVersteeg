@@ -1,11 +1,11 @@
 # Hi, I'm Jochem Versteeg
 
-Data Engineer / BI Developer at NOC*NSF (Netherlands Olympic Committee), building a new enterprise data warehouse framework on Microsoft Fabric. Outside of work, I'm building SaaS products and sharpening my full-stack skills — when I'm not training for triathlons.
+Data Engineer / BI Developer at NOC*NSF (Netherlands Olympic Committee), working primarily on a Fabric data framework and on business insights through PowerBI. Outside of work, I like to build personal tools and sharpen my full-stack skills — when I'm not training for a triathlon.
 
 ## What I work with
 
-- **Work:** SQL, DAX, Power BI, Microsoft Fabric
-- **Side projects:** Python, TypeScript, React Native, PHP
+- **Work:** SQL, Power BI, Microsoft Fabric
+- **Side projects:** Python, TypeScript, React
 - **Interests:** AI-powered products, sustainability, climate tech, plant-based health
 
 ## Projects
