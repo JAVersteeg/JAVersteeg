@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @JAVersteeg
-- 👀 I’m interested in data science and its application in businesses.
-- 🌱 I’m received a master's degree in Data Science and Entrepreneurship.
-- 📫 You can reach me via e-mail on jochem@jversteeg.com
+# Hi, I'm Jochem Versteeg
 
-<!---
-JAVersteeg/JAVersteeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Engineer / BI Developer at NOC*NSF (Netherlands Olympic Committee), building a new enterprise data warehouse framework on Microsoft Fabric. Outside of work, I'm building SaaS products and sharpening my full-stack skills — when I'm not training for triathlons.
+
+## What I work with
+
+- **Work:** SQL, DAX, Power BI, Microsoft Fabric
+- **Side projects:** Python, TypeScript, React Native, PHP
+- **Interests:** AI-powered products, sustainability, climate tech, plant-based health
+
+## Projects
+
+| Repo | Description | Tech |
+|------|-------------|------|
+| [under-a-rock](https://github.com/JAVersteeg/under-a-rock) | Personal news app — curated RSS feeds with keyword-based topic classification | TypeScript, React Native, Expo, Supabase |
+| [Deep-SVDD-PyTorch](https://github.com/JAVersteeg/Deep-SVDD-PyTorch) | PyTorch implementation of the Deep SVDD anomaly detection method | Python, PyTorch |
+| [Deep-SAD-PyTorch](https://github.com/JAVersteeg/Deep-SAD-PyTorch) | PyTorch implementation of Deep SAD (semi-supervised anomaly detection) | Python, PyTorch |
+| [bTCP_project](https://github.com/JAVersteeg/bTCP_project) | Custom transport protocol implementation | Python |
+| [slots](https://github.com/JAVersteeg/slots) | Multi-armed bandit library | Python |
+
+## Get in touch
+
+- **Email:** jochem@jversteeg.com
